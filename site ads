@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADS IFPI Corrente</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 50px 0;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ADS IFPI Corrente</h1>
+    <nav>
+        <ul>
+            <li><a href="#inicio">Início</a></li>
+            <li><a href="#turmas">Turmas</a></li>
+            <li><a href="#ementas">Ementas</a></li>
+            <li><a href="#fotos">Fotos</a></li>
+            <li><a href="#projetos">Projetos</a></li>
+            <li><a href="#trabalhos">Trabalhos Apresentados</a></li>
+            <li><a href="#contato">Fale Conosco</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="inicio">
+    <h2>Bem-vindo ao Curso de Analise e Desenvolvimento de Sistemas do IFPI Corrente</h2>
+    <!-- Conteudo da secao Inicio -->
+</section>
+
+<section id="turmas">
+    <h2>Turmas</h2>
+    <!-- Conteudo da secao Turmas -->
+</section>
+
+<section id="ementas">
+    <h2>Ementas</h2>
+    <!-- Conteudo da secao Ementas -->
+</section>
+
+<section id="fotos">
+    <h2>Fotos</h2>
+    <!-- Conteudo da secao Fotos -->
+</section>
+
+<section id="projetos">
+    <h2>Projetos</h2>
+    <!-- Conteúdo da secao Projetos -->
+</section>
+
+<section id="trabalhos">
+    <h2>Trabalhos Apresentados</h2>
+    <!-- Conteudo da secao Trabalhos Apresentados -->
+</section>
+
+<section id="contato">
+    <h2>Fale Conosco</h2>
+    <!-- Formulario de contato ou informacoes de contato -->
+</section>
+
+<footer>
+    <p>&copy; 2024 IFPI Corrente - Curso de ADS</p>
+</footer>
+
+</body>
+</html>
